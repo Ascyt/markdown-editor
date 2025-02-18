@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MarkdownEditor": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.35806.103
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownEditor", "MarkdownEditor.csproj", "{68092FD3-759C-4280-B25B-C6D2B744C7C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownEditor", "MarkdownEditor.csproj", "{B8BCA3D3-01A0-4571-A996-2F57B9142BEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{68092FD3-759C-4280-B25B-C6D2B744C7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68092FD3-759C-4280-B25B-C6D2B744C7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68092FD3-759C-4280-B25B-C6D2B744C7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68092FD3-759C-4280-B25B-C6D2B744C7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BCA3D3-01A0-4571-A996-2F57B9142BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BCA3D3-01A0-4571-A996-2F57B9142BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BCA3D3-01A0-4571-A996-2F57B9142BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BCA3D3-01A0-4571-A996-2F57B9142BEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {21AFF203-5FC4-48DB-B1C9-3D9640E07595}
+		SolutionGuid = {1D4D920B-EF44-41F7-AAF7-61E02105168B}
 	EndGlobalSection
 EndGlobal
